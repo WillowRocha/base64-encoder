@@ -1,3 +1,8 @@
+# Base 64 Encoder and Decoder
+Simple React application created to encode or decode credentials to base 64 without going online.
+
+Disclaimer: It uses an external library but I verified the code myself and fixed the version to avoid any future installation to update it unknowing to an unsafe version.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
